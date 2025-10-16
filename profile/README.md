@@ -1,4 +1,13 @@
-(https://www.kscratch.app/images/logo-medium.png)
+
+<p align="center">
+  <img src="https://www.kscratch.app/images/logo-medium.png" alt="kScratch Logo" width="150"/>
+</p>
+
+<h1 align="center">Welcome to kScratch!</h1>
+
+<p align="center">
+  The fast, native, and intuitive desktop GUI for Kubernetes.
+</p>
 ### About kScratch
 
 kScratch is a modern, cross-platform desktop client for managing Kubernetes clusters, built with Rust and SolidJS for maximum performance and a lightweight footprint. It's designed for DevOps, SREs, and developers who need a powerful tool to visualize, debug, and manage multiple clusters without the overhead of web-based or Electron applications.
