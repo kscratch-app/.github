@@ -1,12 +1,19 @@
-## Hi there 👋
+(https://www.kscratch.app/images/logo-medium.png)
+### About kScratch
 
-<!--
+kScratch is a modern, cross-platform desktop client for managing Kubernetes clusters, built with Rust and SolidJS for maximum performance and a lightweight footprint. It's designed for DevOps, SREs, and developers who need a powerful tool to visualize, debug, and manage multiple clusters without the overhead of web-based or Electron applications.
 
-**Here are some ideas to get you started:**
+Our core mission is to provide a superior workflow for "power users" through a flexible, multi-panel interface and a fair, subscription-free business model.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Key Features
+- **⚡️ Native Performance:** A blazingly fast and resource-efficient experience.
+- **↔️ Hybrid Context Workflow:** View and compare resources from multiple clusters and namespaces simultaneously in independent panels.
+- **🧩 Fully Customizable Layout:** Arrange your workspace exactly how you want it with a dockable panel system.
+- **🛠️ Built-in Diagnostics:** Real-time log streaming, interactive terminal access, and detailed YAML views.
+
+---
+
+### 🔗 Stay Connected
+
+* **🌐 Website & Downloads:** [**kscratch.app**](https://kscratch.app)
+* **🐦 Follow us on X.com:** [@kscratch_app](https://x.com/kscratch_app) for updates and "build in public" insights.
